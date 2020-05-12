@@ -32,8 +32,8 @@ export var initialModalsState = {
 export var initialModalState = {
     x: 0,
     y: 0,
-    width: 660,
-    height: 520,
+    width: 570,
+    height: 400,
     zIndex: 0,
     visible: false,
 };
